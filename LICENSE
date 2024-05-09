@@ -1,4 +1,4 @@
-MIT License
+Modified MIT License
 
 Copyright (c) 2024 Sinisterbyte
 
@@ -9,8 +9,16 @@ to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
+1. The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+2. Users are allowed to modify the code, but they may not change the ownership.
+
+3. Selling this software, or any modified version of it, is strictly prohibited.
+
+Our company, Sinisterbyte, and its affiliates, will not be held responsible for any 
+damages or liabilities arising from the use of this software for any purpose, including 
+but not limited to any illegal or harmful activities.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
